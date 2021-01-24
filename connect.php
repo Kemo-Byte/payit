@@ -1,8 +1,8 @@
 <?php
 
 	$dsn = "mysql:host=localhost;dbname=payit";
-	$user = "root";
-	$pass = "kemobyte";
+	$user = "username";
+	$pass = "password";
 
 	$option = array(
 

@@ -1,0 +1,7 @@
+# Prevent Directory Listing
+Options -Indexes
+
+
+# Error Message
+ErrorDocument 403 "You can't Enter This Directory"
+ErrorDocument 404 "Not Found ! In Payit.com"
